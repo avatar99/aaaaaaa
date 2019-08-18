@@ -1,5 +1,4 @@
-token= NjEyNzA4NTI4Mjg0NzYyMTIw.XVmmfw.T7-YZYv895b8jHCoaRqTqSrcmTE
-owner= 600369127907131412
+token= NjEyNzA4NDczNjI0NDYxMzQz.XVmpRA.vm_SXNCWiAgrffR-ftEJ7aU8xX0
 prefix=2
 game=2Play | DarkSide
 stayinchannel=true

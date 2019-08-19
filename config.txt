@@ -1,4 +1,5 @@
 token= NjEyNzA4NDczNjI0NDYxMzQz.XVmpRA.vm_SXNCWiAgrffR-ftEJ7aU8xX0
+owner= 600369127907131412
 prefix=2
 game=2Play | DarkSide
 stayinchannel=true

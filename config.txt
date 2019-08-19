@@ -1,4 +1,4 @@
-token= NjEyOTQzODc0ODY3ODU1Mzky.XVpufA.7O59JGWBWykAALl6e5hXI_2Sg6A
+token= NjEyOTQzODc0ODY3ODU1Mzky.XVpvDw.XjFuDK6xcGXdaRO9TqsFJsG-5Ao
 owner= 600369127907131412
 prefix=2
 game=2Play | DarkSi

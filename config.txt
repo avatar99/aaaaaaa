@@ -1,4 +1,4 @@
-token= NjEyOTM1MzE2NTQxNjY5Mzc3.XVpskw.4V4nlGXFentl5ahgsXrAeppAq2I
+token= NjEyOTQyNzA5NjczNTU4MDE2.XVptZQ.bmOmTYhmiG2muTSVTebIr7XFGCg
 owner= 600369127907131412
 prefix=2
 game=2Play | DarkSide
